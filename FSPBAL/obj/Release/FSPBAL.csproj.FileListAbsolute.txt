@@ -1,0 +1,10 @@
+C:\Users\Fibrex\source\Workspaces\Workspace\FibrexSupplierPortal_ASP\FibrexSupplierPortal\FSPBAL\bin\Release\FSPBAL.dll.config
+C:\Users\Fibrex\source\Workspaces\Workspace\FibrexSupplierPortal_ASP\FibrexSupplierPortal\FSPBAL\bin\Release\FSPBAL.dll
+C:\Users\Fibrex\source\Workspaces\Workspace\FibrexSupplierPortal_ASP\FibrexSupplierPortal\FSPBAL\bin\Release\FSPBAL.pdb
+C:\Users\Fibrex\source\Workspaces\Workspace\FibrexSupplierPortal_ASP\FibrexSupplierPortal\FSPBAL\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\Fibrex\source\Workspaces\Workspace\FibrexSupplierPortal_ASP\FibrexSupplierPortal\FSPBAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\Fibrex\source\Workspaces\Workspace\FibrexSupplierPortal_ASP\FibrexSupplierPortal\FSPBAL\obj\Release\FSPBAL.csprojAssemblyReference.cache
+C:\Users\Fibrex\source\Workspaces\Workspace\FibrexSupplierPortal_ASP\FibrexSupplierPortal\FSPBAL\obj\Release\FSPBAL.csproj.CoreCompileInputs.cache
+C:\Users\Fibrex\source\Workspaces\Workspace\FibrexSupplierPortal_ASP\FibrexSupplierPortal\FSPBAL\obj\Release\FSPBAL.csproj.CopyComplete
+C:\Users\Fibrex\source\Workspaces\Workspace\FibrexSupplierPortal_ASP\FibrexSupplierPortal\FSPBAL\obj\Release\FSPBAL.dll
+C:\Users\Fibrex\source\Workspaces\Workspace\FibrexSupplierPortal_ASP\FibrexSupplierPortal\FSPBAL\obj\Release\FSPBAL.pdb
